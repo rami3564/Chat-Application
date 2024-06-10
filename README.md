@@ -1,6 +1,6 @@
 # Chat-Application
 
-This repository contains a simple chat application built with Flask. The application processes messages using a command-line client and maintains a state using a state machine.
+This repository contains a simple chat application built with Flask. The application processes messages using a command-line client and maintains a state using a state machine. A demonstration can be seen in the demo directory.
 
 ## Project Structure
 
